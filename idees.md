@@ -9,3 +9,4 @@ Cada alumne afegeix al final una proposta diferent per millorar el cartell de la
 - Afegir un codi QR al cartell que enllaci amb el programa, els horaris i els projectes de la fira. Així, els visitants poden consultar la informació des del mòbil abans d'arribar. També hi haurà al cartell un resum imprès amb la data, el lloc i l'horari, perquè qui no tingui mòbil o no pugui llegir el QR també tingui la informació essencial.
 
 - Agregar el nombre de la persona que se busca, un numero de telefono para contactar si se encuentra. Por último, agregar que hay recompensa por encontrar a la persona, para que haya mas busqueda y sea mas facil de encontrar.
+- Posar una imatge en el cartell de la persona que es busca 
